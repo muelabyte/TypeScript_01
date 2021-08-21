@@ -2,7 +2,7 @@
     ===== Código de TypeScript =====
 */
 
-let nombre1: string = 'samuel';
+let nombre1: string = 'ramon';
 
 let hp1: number | string = 95;
 let estaVivo1: boolean = true;
